@@ -38,6 +38,7 @@ main{
 }
 .search button img{
     width: 30px;
+    height: 30px;
 }
 .search input{
     border: 0px;
